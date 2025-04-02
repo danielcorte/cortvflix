@@ -1,12 +1,12 @@
 import './Conteudo.css'
-import { Card } from '../Card/Card'
+import { Lista } from '../Lista/Lista'
 
 
 export function Conteudo() {
 
     return (
-        <main className='Container'>
-            <Card/>
+        <main className='container_conteudo'>
+            <Lista />
         </main>
     )
 }
