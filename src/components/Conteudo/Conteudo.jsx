@@ -1,10 +1,12 @@
 import './Conteudo.css'
+import { Card } from '../Card/Card'
+
 
 export function Conteudo() {
 
     return (
         <main className='Container'>
-            <h1>Principal</h1>
+            <Card/>
         </main>
     )
 }

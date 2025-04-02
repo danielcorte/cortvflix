@@ -1,18 +1,11 @@
-import { Header } from './components/header/header'
-import { BarraNavegacao } from './components/BarraNavegao/BarraNavegacao'
-import { Conteudo } from './components/Conteudo/Conteudo'
-import { Footer } from './components/footer/Footer'
-
+import { Inicial } from "./pages/Inicial/Inicial"
 function App() {
 
   return (
 // tags fantasmas: são as tagas vazias a ponto de persistir a renderização de dois
 // ou mais elementos HTML no mesmo componente
     <>
-      <Header/>
-      <BarraNavegacao/>
-      <Conteudo/>
-      <Footer/>
+      <Inicial></Inicial>
     </>
   )
 }
