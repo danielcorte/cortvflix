@@ -4,7 +4,7 @@ const profiles = [
   { id: 1, name: 'Titanzada Xesque', avatar: 'https://assets.gamearena.gg/wp-content/uploads/2023/12/19171048/titan-pain-gaming-scaled-e1703016665682.jpeg' },
   { id: 2, name: 'Ben Tennyson', avatar: 'https://m.media-amazon.com/images/S/pv-target-images/dbbd610093f4762e3864f01c7c8dc60fae4e31d95b3b68c66eaa91f3c827ce53.jpg' },
   { id: 4, name: 'Memphis', avatar: 'https://p2.trrsf.com/image/fget/cf/774/0/images.terra.com/2025/04/05/1905132587-memphis-depay-sobre-na-bola-com-os-pes-durante-classico-paulista.jpg' },
-  { id: 3, name: 'Jinx', avatar: 'https://guetogeek.com.br/wp-content/uploads/2024/11/Arcane-Jinx-CAPA.jpg' },
+  { id: 3, name: 'Vectra 98', avatar: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3UOcajQI_vazrwuCTH6Js2cdL8r5_uDt2Bg&s' },
   { id: 5, name: 'Adicionar Perfil', isAdd: true }
 ];
 
